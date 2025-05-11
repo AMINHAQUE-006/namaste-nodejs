@@ -1,0 +1,1 @@
+const URI = "mongodb+srv://aminhaque5006:S5FT8QTi7Si0teeQ@cluster0.iph3onx.mongodb.net/";

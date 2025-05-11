@@ -13,3 +13,4 @@ calculateSum(a,b)
 console.log(x)
 console.log(z)
 
+console.log("print")
